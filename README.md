@@ -1,1 +1,3 @@
 # GeneratingMolecules
+
+Finding molecules with desirable properties is critical for many fields related to chemical engineering. However, this task is not at all trivial, as optimization in molecular space is difficult. In this work, we explore two approaches introduced in previous literature, involving the use of recurrent neural networks and continuous latent representations for molecules. We find both methods to be promising for generalized molecular generation and drug discovery, but suspect that incomplete representation of the space in the training data impairs their overall effectiveness.
